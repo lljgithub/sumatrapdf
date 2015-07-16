@@ -2,6 +2,8 @@ scripts/cert.pfx
 scripts/config.py
 obj-rel/
 obj-dbg/
+rel-mac/
+dbg-mac/
 builds/
 mupdf/generated/
 gyp/*.sln
